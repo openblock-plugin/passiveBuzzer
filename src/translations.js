@@ -20,20 +20,20 @@
 export default {
     'interface': {
         'en': {
-            'extension.passiveBuzzer.name': 'Passive Buzzer',
-            'extension.passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
+            'passiveBuzzer.name': 'Passive Buzzer',
+            'passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
         },
         'ru': {
-            'extension.passiveBuzzer.name': 'Passive Buzzer',
-            'extension.passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
+            'passiveBuzzer.name': 'Passive Buzzer',
+            'passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
         },
         'zh-cn': {
-            'extension.passiveBuzzer.name': 'Passive Buzzer',
-            'extension.passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
+            'passiveBuzzer.name': 'Passive Buzzer',
+            'passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
         },
         'zh-tw': {
-            'extension.passiveBuzzer.name': 'Passive Buzzer',
-            'extension.passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
+            'passiveBuzzer.name': 'Passive Buzzer',
+            'passiveBuzzer.description': 'Unlike the active buzzer, the passive buzzer can be used to make different tones of sound and play some ringtones.'
         }
     },
     'extensions': {
